@@ -16,10 +16,10 @@ public class YorumSayac {
 
         /*
         ncmxzöv // cxn ömzvnvcçxöznb
-        
+        cxmbvmxbvömbömbn
         */
 
-
+/* nnnnnnnnnnnnnnnnnnnnnnnnn */
 
 
     }
