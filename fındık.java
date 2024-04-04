@@ -12,7 +12,8 @@ public class MasterKart implements IKart {
     
     /* nnnnnnnnnnnnnnnnnnnnnnnnn
      * 
-     * /*
+     * 
+     000/*
      *     
      */
 
